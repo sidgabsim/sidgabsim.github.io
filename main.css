@@ -1,0 +1,63 @@
+
+.jumbotron {
+  padding-top: 90px;
+  min-height: 600px;
+  margin-bottom: 0;
+  background-image: url('images/head.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-family: 'Vollkorn', cursive;
+  color: white;
+  margin-bottom: 1em;
+}
+
+
+
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.navbar-brand{
+	font-family: "Vollkorn", cursive;
+}
+
+p{
+	font-family: "Vollkorn", cursive;
+}
+
+ul{
+	font-family: "Vollkorn", cursive;
+}
+
+
+
+
+h2{
+	text-align: center;
+	font-family: "Vollkorn", cursive;
+}
+
+
+#social-buttons{
+	text-align: center;
+	padding-top: 40px ;
+	padding-bottom: 40px;
+}
+
+.form-group {
+	width: 40%;
+	margin-right: 30%; margin-left: 30%;
+	padding-bottom: 40px;
+}
